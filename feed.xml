@@ -21,9 +21,8 @@
   <itunes:email>measlymedia@proton.me</itunes:email>
   </itunes:owner>
   <itunes:image href="https://github.com/MeaslyMedia/Ghosts-Town/blob/main/GT%20poster%20design%20main.jpg"/>
-  <itunes:category text="Improv"></itunes:category>
-  <itunes:category text="Comedy Fiction"></itunes:category>
-  <itunes:category text="Games"></itunes:category>
+  <itunes:category text="Fiction"></itunes:category>
+  <itunes:category text="Comedy"></itunes:category>
 
 <item>
 <title>RSS TEST</title>
@@ -78,6 +77,7 @@ https://github.com/MeaslyMedia/Ghosts-Town/blob/main/mp3s/GTep1draft3.mp3
 
 </channel>
 </rss>
+
 
 
 
