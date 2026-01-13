@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
   <channel>
   <title>Ghosts' Town</title>
-  <link>https://github.com/MeaslyMedia/GhostsTown.github.io</link>
+  <link>https://measlymedia.github.io/GhostsTown</link>
   <language>en-us</language>
-  <atom:link href="https://GhostsTown.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+  <atom:link href="https://measlymedia.github.io/GhostsTown/feed.xml" rel="self" type="application/rss+xml"/>
   <copyright>MeaslyMedia</copyright>
   <itunes:subtitle>PODCAST SUBTITLE</itunes:subtitle>
   <itunes:author>MeaslyMedia</itunes:author>
@@ -69,6 +69,7 @@ https://github.com/MeaslyMedia/Ghosts-Town/blob/main/mp3s/GTep1draft3.mp3
 
 </channel>
 </rss>
+
 
 
 
