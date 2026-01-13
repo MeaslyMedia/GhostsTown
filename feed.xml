@@ -10,6 +10,7 @@
   <itunes:summary>
   PODCAST DESCRIPTION
   </itunes:summary>
+    
   <itunes:keywords>Actual Play Podcast,Horror,Comedy,Monster Of The Week</itunes:keywords>
   <description>
 
@@ -31,9 +32,6 @@
 </itunes:subtitle>
 <itunes:summary>
 <![CDATA[
-EPISODE DESCRIPTION
-]]>
-</itunes:summary>
 Stu Parker makes a music/business deal in the woods, Valorie Thorne meets her new boss, and Zeke Arthurs has a normal day at work. All three find themself in the center of an unusual murder scene, made stranger since the victim was already dead.
 
 Content warnings:
@@ -45,6 +43,10 @@ Mentions of Sex
 
 Full vod: https://www.youtube.com/watch?v=JutU7U3_yms  
 Complete Surf and Turf playlist (the previous campaign): https://www.youtube.com/watch?v=wIyI69bQl5c&list=PL_BRSNtrU-0hKsJNDPr0PsjiuZfgJ3N2C
+]]>
+</itunes:summary>
+  
+
 <description>
 <![CDATA[
 EPISODE DESCRIPTION
@@ -67,6 +69,7 @@ https://github.com/MeaslyMedia/Ghosts-Town/blob/main/mp3s/GTep1draft3.mp3
 
 </channel>
 </rss>
+
 
 
 
