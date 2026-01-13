@@ -72,7 +72,7 @@ EPISODE DESCRIPTION
 <itunes:episode>1</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 <guid isPermaLink="false">
-https://LOCATION OF MP3.MP3
+https://github.com/MeaslyMedia/Ghosts-Town/blob/main/mp3s/GTep1draft3.mp3
 </guid>
 <pubDate>12 01 2026</pubDate>
 <itunes:explicit>YES</itunes:explicit>
@@ -82,6 +82,7 @@ https://LOCATION OF MP3.MP3
 
 </channel>
 </rss>
+
 
 
 
