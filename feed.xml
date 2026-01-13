@@ -1,30 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
-</rss>
+  <channel>
+  <title>Ghosts' Town</title>
+  <link>https://github.com/MeaslyMedia/Ghosts-Town/blob/main</link>
+  <language>en-us</language>
+  <atom:link href="https://github.com/MeaslyMedia/Ghosts-Town/blob/main/feed.xml" rel="self" type="application/rss+xml"/>
+  <copyright>MeaslyMedia</copyright>
+  <itunes:subtitle>PODCAST SUBTITLE</itunes:subtitle>
+  <itunes:author>MeaslyMedia</itunes:author>
+  <itunes:summary>
+  PODCAST DESCRIPTION
+  </itunes:summary>
+  <itunes:keywords>Actual Play Podcast,Horror,Comedy,Monster Of The Week</itunes:keywords>
+  <description>
 
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
-<channel>
-<title>Ghosts' Town</title>
-<link>https://github.com/MeaslyMedia/Ghosts-Town/blob/main</link>
-<language>en-us</language>
-<atom:link href="https://github.com/MeaslyMedia/Ghosts-Town/blob/main/feed.xml" rel="self" type="application/rss+xml"/>
-<copyright>MeaslyMedia</copyright>
-<itunes:subtitle>PODCAST SUBTITLE</itunes:subtitle>
-<itunes:author>MeaslyMedia</itunes:author>
-<itunes:summary>
-PODCAST DESCRIPTION
-</itunes:summary>
-<itunes:keywords>Actual Play Podcast,Horror,Comedy,Monster Of The Week</itunes:keywords>
-<description>
-
-</description>
-<itunes:owner>
-<itunes:name>MeaslyMedia</itunes:name>
-<itunes:email>measlymedia@proton.me</itunes:email>
-</itunes:owner>
-<itunes:image href="https://github.com/MeaslyMedia/Ghosts-Town/blob/main/GT%20poster%20design%20main.jpg"/>
-<itunes:category text="Improv"></itunes:category>
-<itunes:category text="Comedy Fiction"></itunes:category>
-<itunes:category text="Games"></itunes:category>
+  </description>
+  <itunes:owner>
+  <itunes:name>MeaslyMedia</itunes:name>
+  <itunes:email>measlymedia@proton.me</itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://github.com/MeaslyMedia/Ghosts-Town/blob/main/GT%20poster%20design%20main.jpg"/>  
+  <itunes:category text="Improv"></itunes:category>
+  <itunes:category text="Comedy Fiction"></itunes:category>
+  <itunes:category text="Games"></itunes:category>
 
 <item>
 <title>RSS TEST</title>
@@ -70,6 +67,7 @@ https://github.com/MeaslyMedia/Ghosts-Town/blob/main/mp3s/GTep1draft3.mp3
 
 </channel>
 </rss>
+
 
 
 
