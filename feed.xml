@@ -19,7 +19,7 @@
   <itunes:name>MeaslyMedia</itunes:name>
   <itunes:email>measlymedia@proton.me</itunes:email>
   </itunes:owner>
-  <itunes:image href="https://measlymedia.github.io/GhostsTown/GT_main_art.jpg"/>
+  <itunes:image href="https://measlymedia.github.io/GhostsTown/GT_main_art_2.jpg"/>
 
 <itunes:category text="Fiction"> <itunes:category text="Comedy Fiction" /></itunes:category>
 <itunes:category text="Comedy"> <itunes:category text="Improv" /></itunes:category>
@@ -63,7 +63,7 @@ Complete Surf & Turf playlist (the previous campaign): https://www.youtube.com/w
 </p>
 ]]>
 </description>
-<itunes:image href="https://measlymedia.github.io/GhostsTown/GT_main_art.jpg"/>
+<itunes:image href="https://measlymedia.github.io/GhostsTown/GT_main_art_2.jpg"/>
 <enclosure url="https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep1draft3.mp3" length="86229048" type="audio/mpeg"/>
 <itunes:duration>5338</itunes:duration>
 <itunes:season>1</itunes:season>
@@ -80,6 +80,7 @@ https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main
 
 </channel>
 </rss>
+
 
 
 
