@@ -27,8 +27,8 @@
   margin: 0 auto;
   background: rgba(255, 255, 255, 0.9);
   z-index: 2;
-  position: sticky;
-  bottom: 0vh;
+  position: relative;
+  bottom: -30vh;
 }
 
 .intro {
@@ -102,6 +102,7 @@ h1 {
     alt="Ghosts' Town cover art. Stu Parker,
   Zeke Arthurs, Valorie Thorne, and Guy Gough stand on a bluff overlooking Tiskwat lake"
   }
+
 
 
 
