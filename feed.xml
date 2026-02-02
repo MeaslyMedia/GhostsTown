@@ -26,7 +26,50 @@
 <itunes:category text="Leisure"> <itunes:category text="Games" /></itunes:category>
 <itunes:explicit>yes</itunes:explicit>
 
-
+<item>
+<link>https://measlymedia.github.io/GhostsTown</link>
+<title>Ep.2 Refusal of the Call | Ghosts’ Town Pt. 2</title>
+<itunes:title>Ep.2 Refusal of the Call | Ghosts’ Town Pt. 2</itunes:title>
+<itunes:author>MeaslyMedia</itunes:author>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>
+  <![CDATA[
+Zeke runs away from responsibility, while Valorie and Stu meet with an untrustworthy ghost for some answers.
+]]>
+</itunes:summary>
+<description>
+<![CDATA[
+<p>
+Zeke runs away from responsibility, while Valorie and Stu meet with an untrustworthy ghost for some answers.</p>
+<p>
+Content warnings:<ul>
+<li>Cursing</li>
+<li>Drugs</li>
+<li>Murder</li>
+<li>Mentions of Sex</li>
+</ul>
+</p>
+<p>
+Full vod: <a href="https://www.youtube.com/watch?v=wARsaOTiH8k" target="_blank">https://www.youtube.com/watch?v=wARsaOTiH8k</a>
+</p>
+<p>
+Sound effect sources: <a href="https://measlymedia.github.io/GhostsTown/sfx_sources.txt" target="_blank">https://measlymedia.github.io/GhostsTown/sfx_sources.txt</a>
+</p>
+]]>
+</description>
+<itunes:image href="https://measlymedia.github.io/GhostsTown/GT_main_art_2.jpg"/>
+<enclosure url="https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep2.mp3" length="91835798" type="audio/mpeg"/>
+<itunes:duration>5675</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>2</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep2.mp3
+</guid>
+<pubDate>Sun, 01 Feb 2026 22:30:00 PST</pubDate>
+<itunes:explicit>yes</itunes:explicit>
+</item>
 
     
 <item>
@@ -83,6 +126,7 @@ https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main
 
 </channel>
 </rss>
+
 
 
 
