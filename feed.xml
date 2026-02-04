@@ -44,8 +44,8 @@ Zeke runs away from responsibility, while Valorie and Stu meet with an untrustwo
 Zeke runs away from responsibility, while Valorie and Stu meet with an untrustworthy ghost for some answers.</p>
 <p>
 Content warnings:<ul>
-<li>Cursing</li>
-<li>Drugs</li>
+<li>Swearing</li>
+<li>Mentions of Drugs</li>
 <li>Murder</li>
 <li>Mentions of Sex</li>
 </ul>
@@ -59,13 +59,13 @@ Sound effect sources: <a href="https://measlymedia.github.io/GhostsTown/sfx_sour
 ]]>
 </description>
 <itunes:image href="https://measlymedia.github.io/GhostsTown/GT_main_art_2.jpg"/>
-<enclosure url="https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep2.mp3" length="91835798" type="audio/mpeg"/>
+<enclosure url="https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep2.2.mp3" length="91838375" type="audio/mpeg"/>
 <itunes:duration>5675</itunes:duration>
 <itunes:season>1</itunes:season>
 <itunes:episode>2</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 <guid isPermaLink="false">
-https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep2.mp3
+https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep2.2.mp3
 </guid>
 <pubDate>Sun, 01 Feb 2026 22:30:00 PST</pubDate>
 <itunes:explicit>yes</itunes:explicit>
@@ -91,7 +91,7 @@ Stu Parker makes a music/business deal in the woods, Valorie Thorne meets her ne
 </p>
 <p>
 Content warnings:<ul>
-<li>Cursing</li>
+<li>Swearing</li>
 <li>Drugs</li>
 <li>Murder</li>
 <li>Gore</li>
@@ -126,6 +126,7 @@ https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main
 
 </channel>
 </rss>
+
 
 
 
