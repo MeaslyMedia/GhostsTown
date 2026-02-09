@@ -28,6 +28,51 @@
 
 <item>
 <link>https://measlymedia.github.io/GhostsTown</link>
+<title>Ep.3 Verbal Agreements | Ghosts’ Town Pt. 3</title>
+<itunes:title>Ep.3 Verbal Agreements | Ghosts’ Town Pt. 3</itunes:title>
+<itunes:author>MeaslyMedia</itunes:author>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>
+  <![CDATA[
+Valorie shows off her skill behind the wheel, Stu gets a concussion, and Zeke delivers a letter.
+]]>
+</itunes:summary>
+<description>
+<![CDATA[
+<p>
+Valorie shows off her skill behind the wheel, Stu gets a concussion, and Zeke delivers a letter.</p>
+<p>
+Content warnings:<ul>
+<li>Swearing</li>
+<li>Car accidents</li>
+<li>Violence</li>
+<li>Injury</li>
+</ul>
+</p>
+<p>
+Full vod: <a href="https://www.youtube.com/watch?v=2GGGGWmkD6o" target="_blank">https://www.youtube.com/watch?v=2GGGGWmkD6o</a>
+</p>
+<p>
+Sound effect sources: <a href="https://measlymedia.github.io/GhostsTown/sfx_sources.txt" target="_blank">https://measlymedia.github.io/GhostsTown/sfx_sources.txt</a>
+</p>
+]]>
+</description>
+<itunes:image href="https://measlymedia.github.io/GhostsTown/GT_main_art_2.jpg"/>
+<enclosure url="https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep3.2.mp3" length="90060441" type="audio/mpeg"/>
+<itunes:duration>5568</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>3</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep3.2.mp3
+</guid>
+<pubDate>Sun, 08 Feb 2026 21:20:00 PST</pubDate>
+<itunes:explicit>yes</itunes:explicit>
+</item>    
+    
+<item>
+<link>https://measlymedia.github.io/GhostsTown</link>
 <title>Ep.2 Refusal of the Call | Ghosts’ Town Pt. 2</title>
 <itunes:title>Ep.2 Refusal of the Call | Ghosts’ Town Pt. 2</itunes:title>
 <itunes:author>MeaslyMedia</itunes:author>
@@ -126,6 +171,7 @@ https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main
 
 </channel>
 </rss>
+
 
 
 
