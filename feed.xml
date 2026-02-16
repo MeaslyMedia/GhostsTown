@@ -26,10 +26,60 @@
 <itunes:category text="Leisure"> <itunes:category text="Games" /></itunes:category>
 <itunes:explicit>yes</itunes:explicit>
 
+
 <item>
 <link>https://measlymedia.github.io/GhostsTown</link>
-<title>Ep.3 Verbal Agreements | Ghosts’ Town Pt. 3</title>
-<itunes:title>Ep.3 Verbal Agreements | Ghosts’ Town Pt. 3</itunes:title>
+<title>Ep.4 Lunch Break | Ghosts’ Town Pt.4</title>
+<itunes:title>Ep.4 Lunch Break | Ghosts’ Town Pt.4</itunes:title>
+<itunes:author>MeaslyMedia</itunes:author>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>
+  <![CDATA[
+The gang go to Meat by the Pound for artifact examination. Valorie bumps into an old "friend", Zeke has a panic attack, and Stu gets signed to a manager.
+]]>
+</itunes:summary>
+<description>
+<![CDATA[
+<p>
+The gang go to Meat by the Pound for artifact examination. Valorie bumps into an old "friend", Zeke has a panic attack, and Stu gets signed to a manager.</p>
+<p>
+Content warnings:<ul>
+<li>Swearing</li>
+<li>Sexual Content</li>
+<li>Gore</li>
+<li>Violence</li>
+<li>Mental Abuse</li>
+<li>Drug Use</li>
+</ul>
+</p>
+<p>
+Full vod: <a href="https://www.youtube.com/watch?v=xFke-aGjNJ4" target="_blank">https://www.youtube.com/watch?v=xFke-aGjNJ4</a>
+</p>
+<p>
+Sound effect sources: <a href="https://measlymedia.github.io/GhostsTown/sfx_sources.txt" target="_blank">https://measlymedia.github.io/GhostsTown/sfx_sources.txt</a>
+</p>
+]]>
+</description>
+<itunes:image href="https://measlymedia.github.io/GhostsTown/GT_main_art_2.jpg"/>
+<enclosure url="https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep4.mp3" length="94650296" type="audio/mpeg"/>
+<itunes:duration>5866</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>4</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep3.2.mp3
+</guid>
+<pubDate>Sun, 15 Feb 2026 23:59:00 PST</pubDate>
+<itunes:explicit>yes</itunes:explicit>
+</item>
+
+
+
+<item>
+<link>https://measlymedia.github.io/GhostsTown</link>
+<title>Ep.3 Verbal Agreements | Ghosts’ Town Pt.3</title>
+<itunes:title>Ep.3 Verbal Agreements | Ghosts’ Town Pt.3</itunes:title>
 <itunes:author>MeaslyMedia</itunes:author>
 <itunes:subtitle>
 </itunes:subtitle>
@@ -73,8 +123,8 @@ https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main
     
 <item>
 <link>https://measlymedia.github.io/GhostsTown</link>
-<title>Ep.2 Refusal of the Call | Ghosts’ Town Pt. 2</title>
-<itunes:title>Ep.2 Refusal of the Call | Ghosts’ Town Pt. 2</itunes:title>
+<title>Ep.2 Refusal of the Call | Ghosts’ Town Pt.2</title>
+<itunes:title>Ep.2 Refusal of the Call | Ghosts’ Town Pt.2</itunes:title>
 <itunes:author>MeaslyMedia</itunes:author>
 <itunes:subtitle>
 </itunes:subtitle>
@@ -119,8 +169,8 @@ https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main
     
 <item>
 <link>https://measlymedia.github.io/GhostsTown</link>
-<title>Ep.1 Whatever Happened to Rutger Horse? | Ghosts’ Town Pt. 1</title>
-<itunes:title>Ep.1 Whatever Happened to Rutger Horse? | Ghosts’ Town Pt. 1</itunes:title>
+<title>Ep.1 Whatever Happened to Rutger Horse? | Ghosts’ Town Pt.1</title>
+<itunes:title>Ep.1 Whatever Happened to Rutger Horse? | Ghosts’ Town Pt.1</itunes:title>
 <itunes:author>MeaslyMedia</itunes:author>
 <itunes:subtitle>
 </itunes:subtitle>
@@ -171,6 +221,7 @@ https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main
 
 </channel>
 </rss>
+
 
 
 
