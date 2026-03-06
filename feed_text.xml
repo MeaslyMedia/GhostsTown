@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+  <title>Ghosts' Town</title>
+  <link>https://measlymedia.github.io/GhostsTown</link>
+  <language>en-us</language>
+  <atom:link href="https://measlymedia.github.io/GhostsTown/feed_test" rel="self" type="application/rss+xml"/>
+  <copyright>MeaslyMedia</copyright>
+  <itunes:subtitle>PODCAST SUBTITLE</itunes:subtitle>
+  <itunes:author>MeaslyMedia</itunes:author>
+  <itunes:summary>
+  Chokepoint, British Columbia is a wet, unassuming city along Canada's Sunshine Coast. While few people pay the city much mind, it is a hotbed for the supernatural, and many souls find themselves lingering here well after they die. One fatefull 2009 fall evening, Stu Parker, Valorie Thorne, and Zeke Arthurs find themselves embroiled in a ghostly affair beyond their pay grade. Ghosts' Town is an actual play, horror, comedy, TTRPG podcast misusing the Monster of the Week system by Evil Hat Games. 
+  </itunes:summary>
+  <itunes:keywords>Actual Play Podcast,Horror,Comedy,Monster Of The Week</itunes:keywords>
+  <description>
+  An actual play TTRPG podcast following the supernatural mishaps of Stu Parker, Valorie Thorne, and Zeke Arthurs in the town of Chokepoint, British Columbia. It's also 2009.
+  </description>
+  <itunes:owner>
+  <itunes:name>MeaslyMedia</itunes:name>
+  <itunes:email>measlymedia@proton.me</itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://measlymedia.github.io/GhostsTown/GT_main_art_2.jpg"/>
+
+<itunes:category text="Fiction"> <itunes:category text="Comedy Fiction" /></itunes:category>
+<itunes:category text="Comedy"> <itunes:category text="Improv" /></itunes:category>
+<itunes:category text="Leisure"> <itunes:category text="Games" /></itunes:category>
+<itunes:explicit>yes</itunes:explicit>
+
+    <item>
+<link>https://measlymedia.github.io/GhostsTown</link>
+<title>Ep.5 Crunch Crisis | Ghosts’ Town Pt.5</title>
+<itunes:title>Ep.5 Crunch Crisis | Ghosts’ Town Pt.5</itunes:title>
+<itunes:author>MeaslyMedia</itunes:author>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>
+  <![CDATA[
+The gang head to the Troubridge glass foundry to stop a murder, and end up in a kerfuffle with the secret police.
+]]>
+</itunes:summary>
+<description>
+<![CDATA[
+<p>
+The gang head to the Troubridge glass foundry to stop a murder, and end up in a kerfuffle with the secret police.</p>
+<p>
+Content warnings:<ul>
+<li>Swearing</li>
+<li>Violence</li>
+<li>Drug Use</li>
+<li>Explosions</li>
+</ul>
+</p>
+<p>
+Full vod: <a href="https://www.youtube.com/watch?v=V9Z6nkAzL3I&t=9s" target="_blank">https://www.youtube.com/watch?v=V9Z6nkAzL3I&t=9s</a>
+</p>
+<p>
+Sound effect sources: <a href="https://measlymedia.github.io/GhostsTown/sfx_sources.txt" target="_blank">https://measlymedia.github.io/GhostsTown/sfx_sources.txt</a>
+</p>
+]]>
+</description>
+<itunes:image href="https://measlymedia.github.io/GhostsTown/GT_main_art_2.jpg"/>
+<enclosure url="https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep5.7.mp3" length="114055100" type="audio/mpeg"/>
+<itunes:duration>6961</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>5</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep5.7.mp3
+</guid>
+<pubDate>Thur, 5 Mar 2026 23:40:00 PST</pubDate>
+<itunes:explicit>yes</itunes:explicit>
+</item>
+
+<item>
+<link>https://measlymedia.github.io/GhostsTown</link>
+<title>Ep.4 Lunch Break | Ghosts’ Town Pt.4</title>
+<itunes:title>Ep.4 Lunch Break | Ghosts’ Town Pt.4</itunes:title>
+<itunes:author>MeaslyMedia</itunes:author>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>
+  <![CDATA[
+The gang go to Meat by the Pound for artifact examination. Valorie bumps into an old "friend", Zeke has a panic attack, and Stu gets signed to a manager.
+]]>
+</itunes:summary>
+<description>
+<![CDATA[
+<p>
+The gang go to Meat by the Pound for artifact examination. Valorie bumps into an old "friend", Zeke has a panic attack, and Stu gets signed to a manager.</p>
+<p>
+Content warnings:<ul>
+<li>Swearing</li>
+<li>Sexual Content</li>
+<li>Gore</li>
+<li>Violence</li>
+<li>Mental Abuse</li>
+<li>Drug Use</li>
+</ul>
+</p>
+<p>
+Full vod: <a href="https://www.youtube.com/watch?v=xFke-aGjNJ4" target="_blank">https://www.youtube.com/watch?v=xFke-aGjNJ4</a>
+</p>
+<p>
+Sound effect sources: <a href="https://measlymedia.github.io/GhostsTown/sfx_sources.txt" target="_blank">https://measlymedia.github.io/GhostsTown/sfx_sources.txt</a>
+</p>
+]]>
+</description>
+<itunes:image href="https://measlymedia.github.io/GhostsTown/GT_main_art_2.jpg"/>
+<enclosure url="https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep4.mp3" length="94650296" type="audio/mpeg"/>
+<itunes:duration>5866</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>4</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep4.mp3
+</guid>
+<pubDate>Sun, 15 Feb 2026 23:59:00 PST</pubDate>
+<itunes:explicit>yes</itunes:explicit>
+</item>
+
+
+
+<item>
+<link>https://measlymedia.github.io/GhostsTown</link>
+<title>Ep.3 Verbal Agreements | Ghosts’ Town Pt.3</title>
+<itunes:title>Ep.3 Verbal Agreements | Ghosts’ Town Pt.3</itunes:title>
+<itunes:author>MeaslyMedia</itunes:author>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>
+  <![CDATA[
+Valorie shows off her skill behind the wheel, Stu gets a concussion, and Zeke delivers a letter.
+]]>
+</itunes:summary>
+<description>
+<![CDATA[
+<p>
+Valorie shows off her skill behind the wheel, Stu gets a concussion, and Zeke delivers a letter.</p>
+<p>
+Content warnings:<ul>
+<li>Swearing</li>
+<li>Car accidents</li>
+<li>Violence</li>
+<li>Injury</li>
+</ul>
+</p>
+<p>
+Full vod: <a href="https://www.youtube.com/watch?v=2GGGGWmkD6o" target="_blank">https://www.youtube.com/watch?v=2GGGGWmkD6o</a>
+</p>
+<p>
+Sound effect sources: <a href="https://measlymedia.github.io/GhostsTown/sfx_sources.txt" target="_blank">https://measlymedia.github.io/GhostsTown/sfx_sources.txt</a>
+</p>
+]]>
+</description>
+<itunes:image href="https://measlymedia.github.io/GhostsTown/GT_main_art_2.jpg"/>
+<enclosure url="https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep3.2.mp3" length="90060441" type="audio/mpeg"/>
+<itunes:duration>5568</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>3</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep3.2.mp3
+</guid>
+<pubDate>Sun, 08 Feb 2026 21:20:00 PST</pubDate>
+<itunes:explicit>yes</itunes:explicit>
+</item>    
+    
+<item>
+<link>https://measlymedia.github.io/GhostsTown</link>
+<title>Ep.2 Refusal of the Call | Ghosts’ Town Pt.2</title>
+<itunes:title>Ep.2 Refusal of the Call | Ghosts’ Town Pt.2</itunes:title>
+<itunes:author>MeaslyMedia</itunes:author>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>
+  <![CDATA[
+Zeke runs away from responsibility, while Valorie and Stu meet with an untrustworthy ghost for some answers.
+]]>
+</itunes:summary>
+<description>
+<![CDATA[
+<p>
+Zeke runs away from responsibility, while Valorie and Stu meet with an untrustworthy ghost for some answers.</p>
+<p>
+Content warnings:<ul>
+<li>Swearing</li>
+<li>Mentions of Drugs</li>
+<li>Murder</li>
+<li>Mentions of Sex</li>
+</ul>
+</p>
+<p>
+Full vod: <a href="https://www.youtube.com/watch?v=wARsaOTiH8k" target="_blank">https://www.youtube.com/watch?v=wARsaOTiH8k</a>
+</p>
+<p>
+Sound effect sources: <a href="https://measlymedia.github.io/GhostsTown/sfx_sources.txt" target="_blank">https://measlymedia.github.io/GhostsTown/sfx_sources.txt</a>
+</p>
+]]>
+</description>
+<itunes:image href="https://measlymedia.github.io/GhostsTown/GT_main_art_2.jpg"/>
+<enclosure url="https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep2.2.mp3" length="91838375" type="audio/mpeg"/>
+<itunes:duration>5675</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>2</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep2.2.mp3
+</guid>
+<pubDate>Sun, 01 Feb 2026 22:30:00 PST</pubDate>
+<itunes:explicit>yes</itunes:explicit>
+</item>
+
+    
+<item>
+<link>https://measlymedia.github.io/GhostsTown</link>
+<title>Ep.1 Whatever Happened to Rutger Horse? | Ghosts’ Town Pt.1</title>
+<itunes:title>Ep.1 Whatever Happened to Rutger Horse? | Ghosts’ Town Pt.1</itunes:title>
+<itunes:author>MeaslyMedia</itunes:author>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>
+  <![CDATA[
+Stu Parker makes a music/business deal in the woods, Valorie Thorne meets her new boss, and Zeke Arthurs has a normal day at work. All three find themself in the center of an unusual murder scene, made stranger since the victim was already dead.
+]]> 
+</itunes:summary>
+<description>
+<![CDATA[
+<p>
+Stu Parker makes a music/business deal in the woods, Valorie Thorne meets her new boss, and Zeke Arthurs has a normal day at work. All three find themselves in the center of an unusual murder scene, made stranger since the victim was already dead.
+</p>
+<p>
+Content warnings:<ul>
+<li>Swearing</li>
+<li>Drugs</li>
+<li>Murder</li>
+<li>Gore</li>
+<li>Mentions of Sex</li>
+</ul>
+</p>
+<p>
+Full vod: <a href="https://www.youtube.com/watch?v=JutU7U3_yms" target="_blank">https://www.youtube.com/watch?v=JutU7U3_yms</a> 
+</p>
+<p>
+Complete Surf & Turf playlist (the previous campaign): <a href="https://www.youtube.com/watch?v=wIyI69bQl5c&list=PL_BRSNtrU-0hKsJNDPr0PsjiuZfgJ3N2C" target="_blank">https://www.youtube.com/watch?v=wIyI69bQl5c&list=PL_BRSNtrU-0hKsJNDPr0PsjiuZfgJ3N2C</a>
+</p>
+<p>
+Sound effect sources: <a href="https://measlymedia.github.io/GhostsTown/sfx_sources.txt" target="_blank">https://measlymedia.github.io/GhostsTown/sfx_sources.txt</a>  
+</p>
+]]>
+</description>
+<itunes:image href="https://measlymedia.github.io/GhostsTown/GT_main_art_2.jpg"/>
+<enclosure url="https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep1.mp3" length="86061490" type="audio/mpeg"/>
+<itunes:duration>5328</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep1.mp3
+</guid>
+<pubDate>Mon, 26 Jan 2026 23:19:43 PST</pubDate>
+<itunes:explicit>yes</itunes:explicit>
+</item>
+
+
+
+</channel>
+</rss>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
