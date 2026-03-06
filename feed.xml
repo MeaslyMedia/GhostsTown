@@ -26,6 +26,50 @@
 <itunes:category text="Leisure"> <itunes:category text="Games" /></itunes:category>
 <itunes:explicit>yes</itunes:explicit>
 
+    <item>
+<link>https://measlymedia.github.io/GhostsTown</link>
+<title>Ep.5 Crunch Crisis | Ghosts’ Town Pt.5</title>
+<itunes:title>Ep.5 Crunch Crisis | Ghosts’ Town Pt.5</itunes:title>
+<itunes:author>MeaslyMedia</itunes:author>
+<itunes:subtitle>
+</itunes:subtitle>
+<itunes:summary>
+  <![CDATA[
+The gang head to the Troubridge glass foundry to stop a murder, and end up in a kerfuffle with the secret police.
+]]>
+</itunes:summary>
+<description>
+<![CDATA[
+<p>
+The gang head to the Troubridge glass foundry to stop a murder, and end up in a kerfuffle with the secret police.</p>
+<p>
+Content warnings:<ul>
+<li>Swearing</li>
+<li>Violence</li>
+<li>Drug Use</li>
+<li>Explosions</li>
+</ul>
+</p>
+<p>
+Full vod: <a href="https://www.youtube.com/watch?v=V9Z6nkAzL3I&t=9s" target="_blank">https://www.youtube.com/watch?v=V9Z6nkAzL3I&t=9s</a>
+</p>
+<p>
+Sound effect sources: <a href="https://measlymedia.github.io/GhostsTown/sfx_sources.txt" target="_blank">https://measlymedia.github.io/GhostsTown/sfx_sources.txt</a>
+</p>
+]]>
+</description>
+<itunes:image href="https://measlymedia.github.io/GhostsTown/GT_main_art_2.jpg"/>
+<enclosure url="https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep5.7.mp3" length="114055100" type="audio/mpeg"/>
+<itunes:duration>6961</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>5</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main/mp3s/GTep5.7.mp3
+</guid>
+<pubDate>Thu, 5 Mar 2026 23:49:00 PST</pubDate>
+<itunes:explicit>yes</itunes:explicit>
+</item>
 
 <item>
 <link>https://measlymedia.github.io/GhostsTown</link>
@@ -221,6 +265,7 @@ https://media.githubusercontent.com/media/MeaslyMedia/GhostsTown/refs/heads/main
 
 </channel>
 </rss>
+
 
 
 
